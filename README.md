@@ -7,7 +7,7 @@ We will sync the number of flights from the airfields (uploaded on WeGlide) on a
 ## Contributing
 If you find an airfield with gliding activity missing, there are two steps.
 
-- make sure it is available on OpenAIP[https://www.openaip.net/] - if not, you can add it there
+- make sure it is available on [OpenAIP](https://www.openaip.net/) - if not, you can add it there
 - add the missing row and open a PR
 
 ## Naming
